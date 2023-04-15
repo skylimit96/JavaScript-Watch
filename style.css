@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #282828;
+}
+h1 {
+    background-color: rgba(66, 247, 250, 0.346);
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 30px;
+    margin: 0;
+    color: #ffffff;
+    font-size: 140px;
+    font-weight: 600;
+}
