@@ -1,3 +1,19 @@
-This is the first project of my learning path.\n
-Code : JavaScript\n
-Title : Digital Watch
+# README FILE
+
+## What is it?
+
+A JavaScript Project created and edited during my learning career in CodeAcademy. It contains the code with comments for more explanation.
+
+## What will you find inside this Repo
+```htm
+import foobar
+
+# file (Html)
+'index.html'
+
+# file (CSS)
+'style.css'
+
+# file (JS)
+'java.js'
+```
